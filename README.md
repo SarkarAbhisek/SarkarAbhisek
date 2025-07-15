@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiseksarkar2001" alt="abhiseksarkar2001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sarkarabhisek01" target="blank"><img src="https://img.shields.io/twitter/follow/sarkarabhisek01?logo=twitter&style=for-the-badge" alt="sarkarabhisek01" /></a> </p>
+<p align="left"> <a href="https://x.com/abhisek404" target="blank"><img src="https://img.shields.io/twitter/follow/abhisek404?logo=twitter&style=for-the-badge" alt="sarkarabhisek01" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Statistics Projects**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarkarabhisek01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarkarabhisek01" height="30" width="40" /></a>
+<a href="https://x.com/abhisek404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarkarabhisek01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhiseksarkar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiseksarkar01" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhisek07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhisek07" height="30" width="40" /></a>
 <a href="https://fb.com/abhisek.sarkar.942145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhisek.sarkar.942145" height="30" width="40" /></a>
